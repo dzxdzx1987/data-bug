@@ -1,0 +1,22 @@
+{
+  "name": "data-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cheerio": "^1.0.0-rc.2",
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.5.7",
+    "ejs-locals": "^1.0.2",
+    "debug": "^3.0.0",
+    "express": "^4.15.4",
+    "superagent": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kevin dong",
+  "license": "ISC"
+}
