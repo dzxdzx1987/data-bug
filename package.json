@@ -2,9 +2,6 @@
   "name": "data-bug",
   "version": "1.0.0",
   "description": "",
-   "script": {
-    "start": "nodemon app"
-  },
   "main": "app.js",
   "dependencies": {
     "body-parser": "^1.17.2",
@@ -18,6 +15,7 @@
   },
   "devDependencies": {},
   "scripts": {
+    "start": "nodemon app",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "kevin dong",
